@@ -1,0 +1,34 @@
+/**
+section-1
+**/
+#sec-1{
+	background: linear-gradient(to left, cyan, #f98dff);
+	height: 190%;
+}
+.fix-navigation{
+	width: 100%;
+	margin: 0;
+	padding: 5px 0px;
+	text-align: center;
+}
+.fix-navigation a{
+	padding: 0px 20px;
+	color: white;
+	font-size: 20px;
+	text-shadow: 3px 1px blue;
+}
+.fix-navigation a:hover{
+	background: black;
+	padding: 5px 20px;
+}
+.title-1{
+	padding-top: 50px;
+	text-align: center;
+}
+.title-1 h1{
+	font-family: serif;
+	font-weight: bold;
+	font-size: 36pt;
+	color: white;
+	text-shadow: 3px 2px blue;
+}

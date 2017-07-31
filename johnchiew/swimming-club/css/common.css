@@ -1,0 +1,17 @@
+.clear{
+	clear: both;
+}
+.float-left{
+	float: left;
+}
+.float-right{
+	float: right;
+}
+.w85p{
+	width: 85%;
+	margin: 30px auto;
+}
+.w95p{
+	width: 95%;
+	margin: 30px auto;
+}

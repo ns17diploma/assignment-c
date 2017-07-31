@@ -1,0 +1,53 @@
+body{
+	width: 95%;
+	margin: auto;
+	font-family: serif;
+	font-size: 16pt;
+	font-style: italic;
+	background: #1c92d2;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #f2fcfe, #1c92d2);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #f2fcfe, #1c92d2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+/*
+ *section01
+ */
+#sec01 img{
+	float: right;
+	margin-top: 10px;
+	width: 5%;
+}
+#sec01 h1{
+	font-size: 36pt;
+	font-family: bold;
+	font-style: serif;
+    margin: 40px 0 0 500px;
+}
+.button01{
+    margin-top: 10px;
+	border-radius: 5px;
+	border: solid 1px white;
+	font-family: serif;
+	font-size: 16pt;
+	font-style: italic;
+	background: white;
+	padding: 7px 15px 7px 15px;
+}
+.button02{
+    margin: 60px 0 0 480px;
+}
+.button02 button{
+	border-radius: 5px;
+	border: solid 1px white;
+	font-family: serif;
+	font-size: 16pt;
+	font-style: italic;
+	background: white;
+	padding: 7px 15px 7px 15px;
+}
+a{
+	text-decoration: none;
+}
+#sec02 img{
+	width: 25%;
+}

@@ -1,0 +1,25 @@
+.reach{
+	color: red !important;
+}
+
+.content-slide{
+	padding: 80px 0 30px 0;
+}
+
+.heading{
+	font-size: 36pt;
+	font-weight: bold;
+	font-family: serif;
+	text-align: center;
+}
+
+.body-text{
+	font-size: 16pt;
+	font-family: 'Italic', Serif;
+	text-align: justify;
+}
+
+img.w-550{
+	width: 550px;
+	margin: 50px 0 20px 400px;
+}

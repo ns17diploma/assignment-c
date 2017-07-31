@@ -1,0 +1,20 @@
+#fixtures-list{
+	color: black !important;
+	margin: auto;
+	border-bottom: solid 3px yellow;
+}
+
+#fixtures-list-center{
+	text-align: center;
+	padding-top: 150px;
+}
+
+img.w-600-1{
+	width: 550px;
+	margin: 50px 0 -10px 270px;
+}
+
+img.w-600-2{
+	width: 550px;
+	margin: 0 0 20px 270px;
+}

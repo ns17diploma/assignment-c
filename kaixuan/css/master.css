@@ -1,0 +1,27 @@
+.container{
+	margin: auto;
+	font-family: serif;
+	font-style: bold;
+	text-align: justify-all;
+	font-size: 17pt;
+}
+#heading{
+	font-family: serif;
+	font-size: 36pt;
+	font-style: italic; 
+	text-align: center;
+}
+#sec1 .container nav a{
+	margin: 0px 11px 0 84px;
+	text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+	color: white;	
+
+}
+.icon-last{
+	float: right;
+	margin: auto;
+}
+.clear{
+	clear: both;
+}
+

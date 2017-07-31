@@ -1,0 +1,25 @@
+/*/commoncss/*/
+.clear{
+	clear: both;
+}
+.con01{
+	margin: auto;
+	width: 1400px;
+}
+.floatleft{
+	float: left;
+	width: 50%;
+}
+.padding{
+	padding-top: 50px;
+}
+.black{
+	color:black;
+	font-size: 25px;
+	padding-left: 40px;
+}
+.white{
+	color:white;
+	font-size: 25px;
+	padding-left: 40px;
+}

@@ -1,0 +1,67 @@
+/*sec01*/
+body{
+	background: black;
+}
+#sec01{
+	background: url(../images/swimming2.jpg);
+	background-size: 100%;
+	height: 100%;
+	padding-top: 50px;
+}
+#sec02{
+	background: url(../images/swimming3.jpg);
+	background-size: 100%;
+	height: 100%;
+	padding-top: 50px;
+}
+#sec03{
+	background: url(../images/swimming6.jpg);
+	background-size: 100%;
+	height: 100%;
+	padding-top: 50px;
+}
+#sec04{
+	background: url(../images/swimming7.jpg);
+	background-size: 100%;
+	height: 125%;
+	padding-top: 50px;
+}
+#sec05{
+	background: url(../images/swimming4.jpg);
+	background-size: 100%;
+	height: 100%;
+	padding-top: 50px;
+}
+.adjust{
+	margin-left: 160px;
+}
+.icon1{
+	margin-left: -1460px;
+	margin-top: -40px;
+	position: absolute;
+	width: 80px;
+}
+.heading{
+	color:white;
+	font-size: 75px;
+	padding-top: 550px;
+}
+.list{
+	margin-left: 500px;
+	margin-top: -500px;
+}
+.list2{
+	margin-top: 540px;
+	margin-left: -457px;
+	position: absolute;
+	width: 457px;
+}
+.text1{
+	color:white;
+	padding-top: 40px;
+	padding-left: 50px;
+}
+.swim8{
+	padding-left: 50px;
+	width: 400px;
+}

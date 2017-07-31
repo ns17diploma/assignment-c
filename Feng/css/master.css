@@ -1,0 +1,46 @@
+body{
+	background-color: black;
+}
+.clear{
+	clear: both;
+}
+.fullsite2{
+	width: 20%;
+	border-top:solid 1px none;
+	border-left:solid 1px none;
+	border-right:solid 1px none;
+	border-bottom-right-radius:150px;
+	border-bottom-left-radius:150px; 
+	margin-left: 150px;
+	float: left;
+}
+#background2{
+	background-color: rgba(0,0,0,0.7);
+}
+.font1a{
+	font-size: 2.5em;
+	margin: auto;
+	font-family: Algerian;
+	text-align: center;
+	color: blue;
+	padding-top:3px; 
+}
+.image2{
+	width: 100%;
+}
+.font2a{
+	font-size: 2.0em;
+	font-family: arial black;
+	text-align: center;
+}
+.font2b{
+	font-size: 2.0em;
+	font-family: arial black;
+	border-top:solid 2px none;
+	text-align: center;
+	padding: 31px 0px;
+	margin: auto;
+}
+.left {
+	text-align: center;
+}

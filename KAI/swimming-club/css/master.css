@@ -1,0 +1,67 @@
+* {
+	cursor: url(./../Images/sicon.png), auto;
+}
+
+body {
+	margin: 0;
+	background: lightblue;
+	overflow-x: hidden;
+}
+
+.sec *, footer * {
+	font-family: serif;
+	font-size: 16pt;
+	font-style: italic;
+	text-align: justify;
+	text-justify: inter-word;
+	color: white;
+}
+
+.title {
+	font-size: 36pt;
+	font-weight: bold;
+	font-style: normal;
+	text-align: center;
+}
+
+*.none {
+	text-decoration: none;
+	list-style-type: none;
+	background: none;
+	border: none;
+}
+
+.cont {
+	width: 100%;
+	margin: auto;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+/* Section */
+.sec ul li {
+	display: inline-block;
+	width: 24%;
+	text-align: center;
+}
+
+.sec .link {
+	width: 100%;
+}
+
+.topic {
+	font-size: 1.6em;
+	text-align: center;
+}
+
+.icon {
+	width: 130px;
+	position: absolute;
+	top: 0;
+}

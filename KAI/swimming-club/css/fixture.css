@@ -1,0 +1,25 @@
+.content {
+	width: 100%;
+	margin: auto;
+}
+
+.content table {
+	width: 100%;
+}
+
+.content table tr th {
+	text-align: center;
+}
+
+.content table tr th, .content table tr td {
+	border: solid 1px white;
+}
+
+.center {
+	width: 50%;
+	margin: auto;
+}
+
+.pic3 {
+	margin-left: 230px;
+}

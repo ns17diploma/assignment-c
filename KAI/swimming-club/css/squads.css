@@ -1,0 +1,17 @@
+.cont {
+	width: 80%;
+	margin: auto;
+}
+
+.cont ol li {
+	padding: 10px 0;
+	font-size: 1.3em;
+}
+
+.pic {
+	width: 45%;
+}
+
+.pic2 {
+	width: 45%;
+}

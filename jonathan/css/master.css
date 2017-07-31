@@ -1,0 +1,27 @@
+#sec1{
+	background-color: #fafafa;
+	height: 1600px;
+}
+#mid01{
+	width: 700px;
+	text-align: center;
+	margin: auto;
+	border: solid 2px #2185d0;
+	background-color: #2185d0
+}
+#nav01 ul li{
+	display: inline-block;
+	padding-right: 50px;
+}
+#nav01{
+
+}
+#word1{
+	font-family: cursive;
+	font-size: 25px;
+	font-family: fantasy;
+}
+#sec1 a{
+	color: #2c333d;
+	text-decoration: none;
+}

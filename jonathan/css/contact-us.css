@@ -1,0 +1,24 @@
+#mid05{
+	width: 700px;
+	margin: auto;
+}
+#word05 h3{
+	font-family: cursive;
+	font-size: 20px;
+	line-height: 2em;
+	text-align: center;
+}
+#pic4{
+	width: 600px;
+	position: relative;
+	right: -60px;
+
+}
+#pic5{
+	width: 600px;
+	position: relative;
+	right: -60px;
+}
+#sec1 a{
+	font-size: 50px;
+}

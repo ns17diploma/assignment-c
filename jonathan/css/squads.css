@@ -1,0 +1,17 @@
+#pic2{
+	width: 500px;
+	position: relative;
+	right: -500px;
+	bottom: -400px;
+	
+}
+#mid03{
+	text-align: center;
+}
+#word3 h3{
+	font-family: cursive;
+	font-size: 20px;
+	position: relative;
+	top: -10px;
+
+}

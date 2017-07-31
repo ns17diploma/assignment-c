@@ -1,0 +1,56 @@
+body{
+	background: #3494E6;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(left, #EC6EAD, #3494E6);
+	background: -o-linear-gradient(left, #EC6EAD, #3494E6);
+	background: linear-gradient(to right, #EC6EAD, #3494E6);  /* Chrome 10-25, Safari 5.1-6 */ /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+#section1 h1{
+	font-size: 36pt;
+	text-align: center;
+	margin-top: -150px;
+	color: white;
+}
+#section1 img{
+	width: 200px;
+	margin-left: 40px;
+	margin-top: 20px;
+}
+#section1 h1 a{
+	text-decoration: none;
+	color: white;
+}
+#section1 div button{
+	background-color: #4090e2;
+	width: 180px;
+	height: 50px;
+	border: 0;
+	border-radius: 10px;
+}
+#section1 div button a{
+	text-decoration: none;
+	font-size: 16pt;
+	color: white;
+}
+.button2{
+	margin-left: 380px;
+}
+#section2 div img{
+	margin-top: 50px;
+	margin-left: 270px;
+}
+#section2 div button{
+	width: 220px;
+	height: 50px;
+	background-color: #4a90e2;
+	border-radius: 10px;
+	border:0;
+	margin-top: 30px;
+}
+#section2 div button a{
+	color: white;
+	text-decoration: none;
+	font-size: 16pt;
+}
+.button6{
+	margin-left: 490px;
+}

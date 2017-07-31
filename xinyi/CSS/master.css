@@ -1,0 +1,38 @@
+body{
+	background: #3494E6;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(left, #EC6EAD, #3494E6);
+	background: -o-linear-gradient(left, #EC6EAD, #3494E6);
+	background: linear-gradient(to right, #EC6EAD, #3494E6);  /* Chrome 10-25, Safari 5.1-6 */ /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	background-image: url(./../images/7.jpg);
+	background-size: 100%;
+}
+#section1 h1{
+	font-size: 36pt;
+	text-align: center;
+	margin-top: 90px;
+	color: white;
+}
+#section1 img{
+	width: 200px;
+	margin-left: 60px;
+	margin-top: 30px;
+}
+#section1 h1 a{
+	text-decoration: none;
+	color: white;
+}
+#section1 div button{
+	background-color: #4090e2;
+	width: 180px;
+	height: 50px;
+	border: 0;
+	border-radius: 10px;
+}
+#section1 div button a{
+	text-decoration: none;
+	font-size: 16pt;
+	color: white;
+}
+.button2{
+	margin-left: 380px;
+}

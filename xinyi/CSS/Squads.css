@@ -1,0 +1,71 @@
+body{
+	background: #3494E6;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(left, #EC6EAD, #3494E6);
+	background: -o-linear-gradient(left, #EC6EAD, #3494E6);
+	background: linear-gradient(to right, #EC6EAD, #3494E6);  /* Chrome 10-25, Safari 5.1-6 */ /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.but{
+	margin: 10px 0 0 330px;
+}
+.but button{
+	background-color: #4090e2;
+	border: 0;
+	border-radius: 10px;
+    padding: 13px 20px 13px 20px;
+}
+.but a{
+	text-decoration: none;
+	color: white;
+}
+.button6{
+	font-size: 16pt;
+	margin-left: 40px;
+}
+.button7{
+	font-size: 16pt;
+	margin: 20px 10px 0 0;
+}
+#section1 h1{
+	font-size: 36pt;
+	text-align: center;
+	margin-top: 100px;
+	color: white;
+}
+#section1 img{
+	width: 200px;
+	float: right;
+	margin-top:-70px;
+	margin-right: 100px; 
+}
+#section1{
+	position: relative;
+}
+#section1 h1 a{
+	text-decoration: none;
+	color: white;
+}
+#section1 button{
+	background-color: #4090e2;
+	border: 0;
+	border-radius: 10px;
+	padding:12px 50px 15px 38px;
+}
+#section1 button a{
+	text-decoration: none;
+	font-size: 16pt;
+	color: white;
+}
+.button2{
+	margin-left: 380px;
+}
+#section2 p{
+	font-size: 16pt;
+	margin-left: 370px;
+	margin-top: 30px;
+	font-style: italic;
+}
+.img{
+	width: 200px;
+	margin-left: 50px;
+	margin-top: -200px;
+}

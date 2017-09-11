@@ -13,9 +13,6 @@
 	display: inline-block;
 	padding-right: 50px;
 }
-#nav01{
-
-}
 #word1{
 	font-family: cursive;
 	font-size: 25px;
@@ -24,4 +21,10 @@
 #sec1 a{
 	color: #2c333d;
 	text-decoration: none;
+}
+button{
+	background-color: white;
+	border-radius: 20px 20px;
+	width: 100px;
+	height: 60px;
 }

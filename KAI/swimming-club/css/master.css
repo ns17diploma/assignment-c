@@ -1,0 +1,70 @@
+body {
+	margin: 0;
+	background: lightblue;
+	overflow-x: hidden;
+	position: relative;
+}
+.logoImg {
+	width: 100px;
+	z-index: -1;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.allBtn {
+	width: 100%;
+}
+.allBtn a button {
+	margin: 0 100px;
+}
+.sec {
+	padding-top: 20px;
+}
+.sec *, footer * {
+	font-family: serif;
+	font-size: 16pt;
+	font-style: italic;
+	text-align: justify;
+	text-justify: inter-word;
+	color: white;
+}
+.title {
+	font-size: 36pt;
+	font-weight: bold;
+	font-style: normal;
+	text-align: center;
+}
+*.none {
+	text-decoration: none;
+	list-style-type: none;
+	background: none;
+	border: none;
+}
+.cont {
+	width: 80%;
+	margin: auto;
+	text-align: center;
+}
+.left {
+	float: left;
+}
+.right {
+	float: right;
+}
+.clear {
+	clear: both;
+}
+.center {
+	text-align: center;
+}
+/*******************/
+.sec {
+	width: 100%;
+}
+.topic {
+	font-size: 1.6em;
+	text-align: center;
+}
+.imgSwim {
+	width: 400px;
+}

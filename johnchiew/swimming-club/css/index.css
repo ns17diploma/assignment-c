@@ -1,41 +1,41 @@
 .content-1{
-	text-align: left;
-	background: url(../images/pool.jpg);
-	background-size: 100%;
+  text-align: left;
+  background: url(../images/pool.jpg);
+  background-size: 100%;
 }
 .content-1 p{
-	font-size: 16pt;
-	font-family: serif;
-	font-style: italic;
-	text-align: justify;
-	text-shadow: 3px 1px blue;
-	padding: 50px 10px;
-	color: white;
-	width: 50%;
-	margin: 0px auto;
-	background: rgba(0,0,0,.4);
+  font-size: 16pt;
+  font-family: serif;
+  font-style: italic;
+  text-align: justify;
+  text-shadow: 3px 1px blue;
+  padding: 50px 10px;
+  color: white;
+  width: 50%;
+  margin: 0px auto;
+  background: rgba(0,0,0,.4);
 }
 .content-1 h1{
-	width: 50%;
-	margin: 0 auto;
-	color: white;
-	text-shadow: 3px 2px blue;
+  width: 50%;
+  margin: 0 auto;
+  color: white;
+  text-shadow: 3px 2px blue;
 }
 
 .images{
-	width: 50%;
-	margin: 0 auto;
-	text-align: center;
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
 }
 .images img{
-	width: 500px;
-	box-shadow: 5px 5px black;
+  width: 500px;
+  box-shadow: 5px 5px black;
 }
 .images-list{
-	width: 80%;
-	margin: 0 auto;
-	text-align: center;
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
 }
 .images-list img{
-	width: 100%;
+  width: 100%;
 }

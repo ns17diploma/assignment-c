@@ -15,7 +15,7 @@ body {
 	width: 100%;
 }
 .allBtn a button {
-	margin: 0 100px;
+	margin: 0 120px;
 }
 .sec {
 	padding-top: 20px;
@@ -67,4 +67,30 @@ body {
 }
 .imgSwim {
 	width: 400px;
+}
+#allCont {
+	width: 100%;
+	margin: auto;
+}
+.smTable {
+	width: 10%;
+	border: solid 1px white;
+}
+.mdTable {
+	width: 20%;
+	border: solid 1px white;
+}
+.lgTable {
+	width: 35%;
+	border: solid 1px white;
+}
+#allCont table {
+	width: 100%;
+	border: solid 1px white;
+}
+.leftTable {
+	width: 35%;
+}
+.rightTable {
+	width: 65%;
 }

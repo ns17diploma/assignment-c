@@ -55,7 +55,35 @@ a{
 /*
  *section02
  */
-#sec02 img{
-    margin: 30px 0 0 185px;
-	width: 30%;
+#sec02{
+	background-color: white; 
+	margin: 20px 0 0  200px;
+	width: 70%;
+}
+.slide1 u{
+	font-size: 35px;
+	color: green;
+}
+.slide1{
+   	margin: -100px 0 0 483px;
+}
+p{
+	margin: 0 10px 0 -230px;
+}
+.slide2{
+	color: black;
+	margin:-10px 0 0 100px;
+}
+.slide3{
+	color: red;
+	margin: 10px 0 0 245px;
+}
+table{
+	margin: 25px 0;
+	color: blue;
+	width: 100%;
+	border-collapse: collapse;
+}
+.img02{
+	width: 150%;
 }

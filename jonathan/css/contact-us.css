@@ -1,0 +1,30 @@
+#mid05{
+	width: 700px;
+	margin: auto;
+}
+#word05 h3{
+	font-family: cursive;
+	font-size: 20px;
+	line-height: 2em;
+	text-align: center;
+}
+#pic4{
+	width: 600px;
+	position: relative;
+	right: -60px;
+
+}
+#pic5{
+	width: 600px;
+	position: relative;
+	right: -60px;
+}
+#sec1 a{
+	font-size: 50px;
+}
+button{
+	background-color: white;
+	border-radius: 20px 20px;
+	width: 100px;
+	height: 60px;
+}

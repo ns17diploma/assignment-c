@@ -1,0 +1,15 @@
+.fullsite1{
+	width: 100%;
+}
+#background1{
+	background-color: purple; 
+	display: inline-block;
+}
+.right{
+	float: right;
+	width: 68%;
+	display: inline-block;
+}
+.image3{
+	width: 100%;
+}

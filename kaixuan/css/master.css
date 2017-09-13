@@ -1,0 +1,28 @@
+.container{
+  color:white;
+  font-family: serif;
+  font-size: 16pt;
+  font-style: italic;
+  padding-top: 40px;
+  padding-left: 50px;
+  margin: auto; 
+}
+  #heading{
+    font-size: 36pt;
+    font-family: serif;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+  }
+#sec1 .container nav a{
+  margin-right: 3.5em;
+  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+  color: white; 
+}
+.icon-last{
+  margin: auto;
+}
+.clear{
+  clear: both;
+}
+

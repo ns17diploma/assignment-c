@@ -1,0 +1,18 @@
+.fullsite1{
+	width: 100%;
+}
+#background1{
+	background: url(../image/swim5.gif)no-repeat ;
+	background-size:cover;
+	display: inline-block;
+}
+.right{
+	float: right;
+	width: 68%;
+	font-size: 2em;
+	display: inline-block;
+	font-family: Impact;
+	color: pink;
+	padding-top: 70px;
+	text-align: center;
+}

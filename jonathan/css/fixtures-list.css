@@ -1,0 +1,20 @@
+#pic4{
+	position: relative;
+	;left: -160px;	
+	
+}
+#mid04{
+	text-align: center;
+	margin: auto;
+	width: 980px;
+}
+#mid04 a {
+	font-size: 50px;
+
+}
+button{
+	background-color: white;
+	border-radius: 20px 20px;
+	width: 100px;
+	height: 60px;
+}

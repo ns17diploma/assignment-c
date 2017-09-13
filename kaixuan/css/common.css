@@ -1,46 +1,55 @@
 body{
-	text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
-	color: white;
+  background: url(../images/005.jpg);
+  background-size: 100%;
+  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+  color: white;
 }
 .fl{
-	float: left;
+  float: left;
 }
 .img1{
-	width: 40px;
-	height: 39px;
+  width: 3em;
 }
 .space{
-	margin: 6px 0px 0 -3px;
+  margin: 6px 0px 0 -3px;
 }
 .img01{
-	background-image: url(../images/008.jpg);
-	background-size: 100%;
-	height: 100%;
+    margin-left: 11em;
+    width: 26em;
 }
 .img02{
-	background-image: url(../images/007.jpg);
-	background-size: 100%;
-	height: 100%;
-
+  width: 31em;
+}
+.fimg02{
+  padding: 0 3em;
 }
 .img03{
-	background-image: url(../images/009.jpg);
-	background-size: 100%;
+  width: 30em;
 }
 .img04{
-	background-image: url(../images/004.jpg);
-	background-size: 100%;
-	height: 100%;
+  width: 30em;
 }
 .ab{
-	position: absolute;
+  position: absolute;
 }
 .img2{
    margin: 30px 0 0 311px;
 }
 .img3{
-	margin:-45px 0 0 312px;
+  margin:-45px 0 0 312px;
 }
 i{
-	color: white;
+  color: white;
 }
+.home-font{
+  width: 62em;
+}
+.squads-font{
+    width: 41em;
+    padding: 0 2em;
+}
+.contact-font{
+  width: 42em;
+  padding: 0 3em;
+}
+

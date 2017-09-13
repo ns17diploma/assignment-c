@@ -1,17 +1,29 @@
 #pic2{
 	width: 500px;
+	margin: auto;
 	position: relative;
-	right: -500px;
-	bottom: -400px;
-	
+	left: 200px;	
+}
+#pic3{
+	width: 400px;
+	position: relative;
+	top: 170px;
+	left: -270px;
 }
 #mid03{
 	text-align: center;
+	width: 980px;
+	margin: auto;
 }
 #word3 h3{
 	font-family: cursive;
 	font-size: 20px;
 	position: relative;
-	top: -10px;
-
+	top: -400px;
+}
+button{
+	background-color: white;
+	border-radius: 20px 20px;
+	width: 100px;
+	height: 60px;
 }

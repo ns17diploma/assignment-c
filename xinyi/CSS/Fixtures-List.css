@@ -4,29 +4,29 @@ body{
 	background: -o-linear-gradient(left, #EC6EAD, #3494E6);
 	background: linear-gradient(to right, #EC6EAD, #3494E6);  /* Chrome 10-25, Safari 5.1-6 */ /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
-#section1 h1{
+#section01 h1{
 	font-size: 36pt;
 	text-align: center;
 	color: white;
 	margin-top: -100px;
 }
-#section1 img{
+#section01 img{
 	width: 200px;
 	margin-left: 40px;
 	margin-top: 20px;
 }
-#section1 h1 a{
+#section01 h1 a{
 	text-decoration: none;
 	color: white;
 }
-#section1 div button{
+#section01 div button{
 	background-color: #4090e2;
 	width: 180px;
 	height: 50px;
 	border: 0;
 	border-radius: 10px;
 }
-#section1 div button a{
+#section01 div button a{
 	text-decoration: none;
 	font-size: 16pt;
 	color: white;
@@ -34,11 +34,11 @@ body{
 .button2{
 	margin-left: 380px;
 }
-#section2 div table tr td{
+#section02 div table tr td{
 	background-color: white;
 	color: blue;
 }
-#section2{
+#section02{
 	margin-left: 250px;
 	margin-top: 50px;
 	height: 2800px;
@@ -64,12 +64,12 @@ body{
 	color: red;
 	margin-left: 220px;
 }
-#section2 div img{
+#section02 div img{
 	width: 150px;
 	margin-top: 20px;
 	margin-left: 50px;
 }
-#section2 div h2{
+#section02 div h2{
 	color: green;
 	margin-top: -70px;
 	margin-left: 280px;

@@ -1,0 +1,118 @@
+#sec01{
+  width: 100%;
+  height: 100%;
+  padding-bottom: 100%;
+  padding-top: 100px;
+  background-color: background: #56CCF2; 
+            background: -webkit-linear-gradient(to right, #2F80ED, #56CCF2);  
+            background: linear-gradient(to right, #2F80ED, #56CCF2); 
+
+  color: white;
+}
+
+.sec01-header{
+  color: white;
+  font-size: 36pt;
+  margin: auto;
+  text-align: center;
+}
+
+#sec01 div button{
+  width: 150px;
+  height: 45px;
+  background-color: white;
+  border: 0;
+  border-radius: 10px;
+  color: black;
+  text-align: center;
+  margin-top: 20px;
+  margin-left: 330px;
+  margin-right: -250px;
+  
+}
+#sec01 h1{
+  font-size: 36pt;
+  font-family: serif;
+  font-weight: bold;
+}
+
+#sec02{
+  margin-top: 100px;
+  margin-left: -100px;
+}
+
+#sec02 a{
+  margin-left: 550px;
+  font-size: 25px;
+}
+
+.club{
+  margin-top: 40px;
+  margin-left: 450px;
+}
+
+.rsc {
+  color: green;
+  font-size: 20px;
+  margin-top: -150px;
+  margin-left: 720px;
+}
+
+.img01{
+  margin-top: 30px;
+  margin-left: 30px;
+}
+
+.competition{
+  font-size: 20px;
+  color: green;
+  margin-top: -30px;
+  margin-left: 560px;
+}
+
+.list{
+  margin-left: 450px;
+  margin-top: 10px;
+}
+
+table tr td{
+  background-color: white;
+  border-collapse: collapse;
+  border: solid 1px black;
+  color: blue;
+  padding: 3px;
+}
+
+.text{
+  margin-left: 450px;
+  margin-top: -18px;
+  color: blue;
+}
+
+.text02{
+  margin-top: -33px;
+  margin-left: 700px;
+  color: blue;
+}
+
+.age{
+  margin-left: 450px;
+  color: blue;
+}
+
+.regional{
+  margin-top: 50px;
+  margin-left: 550px;
+}
+
+.licensed{
+  margin-top: -20px;
+  margin-left: 650px;
+}
+
+.other{
+  margin-top: -10px;
+  margin-left: 600px;
+  color: red;
+  font-weight: bolder;
+}

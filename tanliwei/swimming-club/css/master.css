@@ -23,7 +23,7 @@ body{
 #sec04{
 	background: url(../images/swimming7.jpg);
 	background-size: 100%;
-	height: 125%;
+	height: 260%;
 	padding-top: 50px;
 }
 #sec05{
@@ -34,6 +34,9 @@ body{
 }
 .adjust{
 	margin-left: 160px;
+}
+.center{
+	text-align: center;
 }
 .icon1{
 	margin-left: -1240px;
@@ -47,14 +50,24 @@ body{
 	padding-top: 550px;
 }
 .list{
-	margin-left: 500px;
-	margin-top: -500px;
+	margin-left: 600px;
+	margin-top: 50px;
 }
 .list2{
 	margin-top: 540px;
 	margin-left: -457px;
 	position: absolute;
 	width: 457px;
+}
+.listt td{
+	border:solid 1px white;
+}
+.listt{
+	border:solid 1px white;
+	color: white;
+	width: 600px;
+	margin-left: 50px;
+	margin-top: -350px;
 }
 .text1{
 	color:white;

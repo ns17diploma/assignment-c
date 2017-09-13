@@ -19,6 +19,15 @@
 	text-align: center;
 	margin-left:-14px; 
 }
+.image1{
+	width: 290px;
+	border-radius: 20px;
+}
+.image2{
+	width: 300px;
+	float: right;
+	border-radius: 20px;
+}
 .font3b{
 	font-size: 2.5em;
 	font-family: Arial black;

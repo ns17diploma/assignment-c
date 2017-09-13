@@ -1,6 +1,7 @@
 .fullsite1{
 	width: 100%;
 }
+
 #background1{
 	background: url(../image/swim5.gif)no-repeat ;
 	background-size:cover;
@@ -15,4 +16,9 @@
 	color: pink;
 	padding-top: 70px;
 	text-align: center;
+}
+.right img{
+	width: 270px;
+	float: right;
+	border-radius: 50px;
 }

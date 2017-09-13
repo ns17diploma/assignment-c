@@ -7,8 +7,8 @@ body{
 #section1 h1{
 	font-size: 36pt;
 	text-align: center;
-	margin-top: -150px;
 	color: white;
+	margin-top: -100px;
 }
 #section1 img{
 	width: 200px;
@@ -34,11 +34,58 @@ body{
 .button2{
 	margin-left: 380px;
 }
-#section2 div img{
-	margin-top: 50px;
-	margin-left: 270px;
+#section2 div table tr td{
+	background-color: white;
+	color: blue;
 }
-#section2 div button{
+#section2{
+	margin-left: 250px;
+	margin-top: 50px;
+	height: 2800px;
+	background-color: white;
+	width: 60%;
+}
+.div1{
+	margin-top: 30px;
+	margin-left: 20px;
+	color: blue;
+}
+.div2{
+	color: blue;
+	margin-top: -75px;
+	margin-left: 300px;
+}
+.div3{
+	text-align: center;
+	margin-top: 50px;
+	margin-left: -70px;
+}
+.h4{
+	color: red;
+	margin-left: 220px;
+}
+#section2 div img{
+	width: 150px;
+	margin-top: 20px;
+	margin-left: 50px;
+}
+#section2 div h2{
+	color: green;
+	margin-top: -70px;
+	margin-left: 280px;
+	margin-bottom: 50px;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+}
+ div button{
 	width: 220px;
 	height: 50px;
 	background-color: #4a90e2;
@@ -46,11 +93,11 @@ body{
 	border:0;
 	margin-top: 30px;
 }
-#section2 div button a{
+div button a{
 	color: white;
 	text-decoration: none;
 	font-size: 16pt;
 }
 .button6{
-	margin-left: 490px;
+	margin-left: 710px;
 }
